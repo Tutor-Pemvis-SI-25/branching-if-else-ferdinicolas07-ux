@@ -1,5 +1,5 @@
-import java.util.*;
-import java.lang.Math;
+// NAMA : Ferdinand Nicolas Sihombing
+// NIM  : 12S25023
 
 import java.util.*;
 import java.lang.Math;
