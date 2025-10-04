@@ -1,5 +1,5 @@
-// NAMA : Ferdinand Nicolas Sihombing
-// NIM  : 12S25023
+// 12S25023_Ferdinand Nicolas Sihombing
+// 12S25028_Novitasari Napitupulu
 
 import java.util.*;
 import java.lang.Math;
